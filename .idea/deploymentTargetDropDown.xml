@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="core_data">
+        <State />
+      </entry>
+      <entry key="core_data.api">
+        <State />
+      </entry>
+      <entry key="feature">
+        <State />
+      </entry>
+      <entry key="feature.quotes">
+        <State />
+      </entry>
+      <entry key="feature.quotes.api">
+        <State />
+      </entry>
+      <entry key="feature.quotes.impl">
+        <State />
+      </entry>
+      <entry key="myapplication">
+        <State />
+      </entry>
+      <entry key="storage">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
